@@ -1,0 +1,174 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "NorthwindDBContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Contexts",
+   "OutputPath": "Entities",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DBFirst",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Customers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Employees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Order Details Extended]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[Order Subtotals]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[Product Sales for 1997]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[Sales by Category]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[Sales Totals by Amount]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[CustOrderHist]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[CustOrdersDetail]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[CustOrdersOrders]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteCategoryByCategoryID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteEmployeeByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteProductByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DiscontinuedProducts]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Employee Sales by Country]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[NewProductDeleteCommand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[NewProductInsertCommand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[NewProductSelectCommand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[NewProductUpdateCommand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[PrdsDeleteCommand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[PrdsInsertCommand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[PrdsSelectCommand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[PrdsUpdateCommand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Sales by Year]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SalesByCategory]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SelectAllCategories]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SelectALLEmployees]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SelectAllProducts]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Ten Most Expensive Products]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[TestPrd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpdateProductNameByProductID]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": true,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": true,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
